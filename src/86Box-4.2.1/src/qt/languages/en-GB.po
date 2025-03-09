@@ -1,0 +1,28 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Language: en_GB\n"
+"X-Source-Language: en_US\n"
+
+msgid "RGB &Color"
+msgstr "RGB &Colour"
+
+msgid "&RGB Grayscale"
+msgstr "&RGB Greyscale"
+
+msgid "Time synchronization"
+msgstr "Time synchronisation"
+
+msgid "Could not initialize the video renderer."
+msgstr "Could not initialise the video renderer."
+
+msgid "Error initializing renderer"
+msgstr "Error initialising renderer"
+
+msgid "OpenGL (3.0 Core) renderer could not be initialized. Use another renderer."
+msgstr "OpenGL (3.0 Core) renderer could not be initialised. Use another renderer."
+
+msgid "Development of the WinBox manager stopped in 2022 due to a lack of maintainers. As we direct our efforts towards making 86Box even better, we have made the decision to no longer support WinBox as a manager.\n\nNo further updates will be provided through WinBox, and you may encounter incorrect behavior should you continue using it with newer versions of 86Box. Any bug reports related to WinBox behavior will be closed as invalid.\n\nGo to 86box.net for a list of other managers you can use."
+msgstr "Development of the WinBox manager stopped in 2022 due to a lack of maintainers. As we direct our efforts towards making 86Box even better, we have made the decision to no longer support WinBox as a manager.\n\nNo further updates will be provided through WinBox, and you may encounter incorrect behavior should you continue using it with newer versions of 86Box. Any bug reports related to WinBox behaviour will be closed as invalid.\n\nGo to 86box.net for a list of other managers you can use."
